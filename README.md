@@ -4,6 +4,8 @@ Shell, Lid, Tray.
 
 Supplies: TP4056, Wemos D1 Mini, ICM-45686 + QMC6309 (Aliexpress Type), 180kOhm Resistor (optional), 2x Schottky Diode
 ![wiring](wemos_d1_mini_icm_qmc_tp4056.png)
+
+FIRMWARE MAKER:
 https://slimevr-firmware.bscotch.ca/
 
 Butterscotch Settings as of 11/21/2025
